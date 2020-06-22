@@ -1,6 +1,6 @@
 # Documenta-o-RN---SENAI
 
-View: container/área utilizado para exibir alguma parte visual para o usuário, texto,imagens, campos, entre outros. Algo mais abrangente. 
+View: container/área utilizado para exibir alguma parte visual para o usuário, texto,imagens, campos, entre outros. Algo mais abrangente.<br> 
 Text: Componente responsável por exibir um texto, contendo propriedades para estilizar e tratar eventos.
 Image: Componente responsável por exibir imagens.
 ScrollView: container/área que possui uma barra de rolagem e suporte para gestos como zoom. É um componente mais genérico
