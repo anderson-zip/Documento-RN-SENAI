@@ -8,7 +8,7 @@
 <strong>Cat:</strong> Componente de inicio em formato de função e td que ele for retornar é renderizado como um elemento react.<br>
 <strong>Button: </strong>Componente que executa uma função ao ser clicado.<br>
 <strong>ViewPager: </strong>Componente que permite a rolagem na horizontal de um conteudo.<br>
-<strong>FlatList:<s/trong> Componente mais específico diferente do scrollview permite a rolagem de dados alterados, mas estruturados de forma semelhante.<br>
+<strong>FlatList:</strong> Componente mais específico diferente do scrollview permite a rolagem de dados alterados, mas estruturados de forma semelhante.<br>
 <strong>SectionList:</strong> Componente que permite a listagem separando por sessão.<br>
 <strong>StyleSheet: <s/trong>Componente semelhante ao CSS, utilizado para estilizar.<br>
 <strong>Picker:</strong> Renderiza um componente de forma nativa levando em consideração o seu SO.<br>
