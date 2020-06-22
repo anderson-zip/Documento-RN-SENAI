@@ -1,4 +1,4 @@
-# Documenta-o-RN---SENAI
+# Documentação do RN: Alguns componentes
 
 <strong>View:</strong> container/área utilizado para exibir alguma parte visual para o usuário, texto,imagens, campos, entre outros. Algo mais abrangente.<br> 
 <strong>Text:</strong> Componente responsável por exibir um texto, contendo propriedades para estilizar e tratar eventos.
